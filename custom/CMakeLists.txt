@@ -56,6 +56,13 @@ set(CUSTOM_SOURCES
     CACHE INTERNAL "" FORCE
 )
 
+# Stock code (QGCCorePlugin.cc) includes CUSTOMHEADER, so the custom src dir
+# must be on the main target's include path.
+set(CUSTOM_INCLUDE_DIRECTORIES
+    ${CMAKE_CURRENT_SOURCE_DIR}/src
+    CACHE INTERNAL "" FORCE
+)
+
 # ----------------------------------------------------------------------------
 # Custom Build Configuration
 # ----------------------------------------------------------------------------
