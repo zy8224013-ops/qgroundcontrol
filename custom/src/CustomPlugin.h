@@ -74,6 +74,8 @@ public:
     void destroyQmlApplicationEngine(QQmlApplicationEngine *qmlEngine) final;
     /// Rover plans: only the blank (waypoint) plan creator.
     QList<PlanCreator *> planCreators(PlanMasterController *planMasterController) final;
+    /// Flight-specific complex items (survey etc.) are not offered on rovers.
+    QVariantList complexMissionItemNames(Vehicle *vehicle) final;
 
 private:
     CustomOptions *_options = nullptr;
