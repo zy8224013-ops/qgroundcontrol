@@ -55,7 +55,7 @@ void CustomPlugin::adjustSettingMetaData(const QString &settingsGroup, FactMetaD
             userVisible = false;
             return;
         } else if (metaData.name() == AppSettings::offlineEditingVehicleClassName) {
-            metaData.setRawDefaultValue(QGCMAVLink::VehicleClassRover);
+            metaData.setRawDefaultValue(QGCMAVLink::VehicleClassRoverBoat);
             userVisible = false;
             return;
         }
