@@ -282,3 +282,10 @@ QList<PlanCreator *> CustomPlugin::planCreators(PlanMasterController *planMaster
     // Survey / CorridorScan / StructureScan are flight specific and not offered.
     return { new BlankPlanCreator(planMasterController) };
 }
+
+QVariantList CustomPlugin::complexMissionItemNames(Vehicle *vehicle)
+{
+    // Survey / CorridorScan / StructureScan pattern items are flight specific.
+    Q_UNUSED(vehicle);
+    return {};
+}
