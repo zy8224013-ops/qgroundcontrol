@@ -6736,7 +6736,7 @@
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/Settings/App.SettingsGroup.json"/>
       <source>No preference,ArduPilot,PX4 Pro</source>
-      <translation type="unfinished">No preference,ArduPilot,PX4 Pro</translation>
+      <translation>无偏好,ArduPilot,PX4 Pro</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[preferredFirmwareClass].label</extracomment>
@@ -6768,7 +6768,7 @@
       <translatorcomment>Only use english comma ',' to separate strings</translatorcomment>
       <location filename="/home/runner/work/qgroundcontrol/qgroundcontrol/src/Settings/App.SettingsGroup.json"/>
       <source>No preference,Fixed Wing,Multi-Rotor,VTOL,Rover,Sub</source>
-      <translation type="unfinished">No preference,Fixed Wing,Multi-Rotor,VTOL,Rover,Sub</translation>
+      <translation>无偏好,固定翼,多旋翼,垂直起降,地面车,船</translation>
     </message>
     <message>
       <extracomment>.QGC.MetaData.Facts[preferredVehicleClass].label</extracomment>
