@@ -2,5 +2,14 @@
     <qresource prefix="/Custom/qml">
         <file alias="QGroundControl/FlyView/FlyViewCustomLayer.qml">src/FlyViewCustomLayer.qml</file>
         <file alias="QGroundControl/FlyView/FlyViewToolStripActionList.qml">src/FlyViewToolStripActionList.qml</file>
+        <file alias="QGroundControl/Toolbar/SelectViewDropdown.qml">src/SelectViewDropdown.qml</file>
+    </qresource>
+    <qresource prefix="/Custom/res">
+        <file alias="menu_rover.svg">res/menu/menu_rover.svg</file>
+        <file alias="menu_route.svg">res/menu/menu_route.svg</file>
+        <file alias="menu_gear.svg">res/menu/menu_gear.svg</file>
+        <file alias="menu_sliders.svg">res/menu/menu_sliders.svg</file>
+        <file alias="menu_analyze.svg">res/menu/menu_analyze.svg</file>
+        <file alias="menu_power.svg">res/menu/menu_power.svg</file>
     </qresource>
 </RCC>
