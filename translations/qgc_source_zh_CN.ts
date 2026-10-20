@@ -1655,7 +1655,7 @@
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFlightModeIndicator.qml" line="11"/>
       <source>Return to Launch</source>
-      <translation type="unfinished">Return to Launch</translation>
+      <translation>返航</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/APM/APMFlightModeIndicator.qml" line="28"/>
@@ -3883,12 +3883,12 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/AppSettings/AppLogging.qml" line="307"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>保存</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/AppLogging.qml" line="313"/>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>清除</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/AppLogging.qml" line="325"/>
@@ -3951,7 +3951,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/Settings/AppSettings.h" line="118"/>
       <source>Settings</source>
-      <translation type="unfinished">Settings</translation>
+      <translation>设置</translation>
     </message>
     <message>
       <location filename="../src/Settings/AppSettings.cc" line="89"/>
@@ -4396,12 +4396,12 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/Toolbar/ArmedIndicator.qml" line="13"/>
       <source>Arm</source>
-      <translation>电机解锁</translation>
+      <translation>解锁</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/ArmedIndicator.qml" line="13"/>
       <source>Disarm</source>
-      <translation>电机上锁</translation>
+      <translation>上锁</translation>
     </message>
   </context>
   <context>
@@ -4632,7 +4632,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/Toolbar/BatteryIndicator.qml" line="564"/>
       <source>Configure</source>
-      <translation type="unfinished">Configure</translation>
+      <translation>配置</translation>
     </message>
   </context>
   <context>
@@ -7436,7 +7436,7 @@ VTOL</translation>
     <message>
       <location filename="../src/Toolbar/FlightModeIndicator.qml" line="250"/>
       <source>Configure</source>
-      <translation type="unfinished">Configure</translation>
+      <translation>配置</translation>
     </message>
   </context>
   <context>
@@ -7650,12 +7650,12 @@ VTOL</translation>
     <message>
       <location filename="../src/FlyView/FlyViewMissionCompleteDialog.qml" line="111"/>
       <source>Resume Mission From Waypoint %1</source>
-      <translation>从%1航点恢复任务</translation>
+      <translation>从航点 %1 继续任务</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMissionCompleteDialog.qml" line="122"/>
       <source>Resume Mission will rebuild the current mission from the last flown waypoint and upload it to the vehicle for the next flight.</source>
-      <translation>恢复飞行任务将从上次飞行航点重建目前的飞行任务，并上载到飞机供下次飞行。</translation>
+      <translation>继续任务将根据最后执行的航点重建当前任务，并上传到车辆以继续执行。</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewMissionCompleteDialog.qml" line="130"/>
@@ -7704,12 +7704,12 @@ VTOL</translation>
     <message>
       <location filename="../src/FlyView/FlyViewTopRightPanel.qml" line="153"/>
       <source>Arm</source>
-      <translation type="unfinished">Arm</translation>
+      <translation>解锁</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewTopRightPanel.qml" line="162"/>
       <source>Disarm</source>
-      <translation type="unfinished">Disarm</translation>
+      <translation>上锁</translation>
     </message>
     <message>
       <location filename="../src/FlyView/FlyViewTopRightPanel.qml" line="171"/>
@@ -7719,7 +7719,7 @@ VTOL</translation>
     <message>
       <location filename="../src/FlyView/FlyViewTopRightPanel.qml" line="180"/>
       <source>Pause</source>
-      <translation type="unfinished">Pause</translation>
+      <translation>暂停</translation>
     </message>
   </context>
   <context>
@@ -8016,7 +8016,7 @@ VTOL</translation>
     <message>
       <location filename="../src/Toolbar/GPSIndicatorPage.qml" line="255"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>保存</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/GPSIndicatorPage.qml" line="255"/>
@@ -8866,7 +8866,7 @@ VTOL</translation>
     <message>
       <location filename="../src/FlyView/GuidedActionsController.qml" line="28"/>
       <source>Disarm</source>
-      <translation>加锁</translation>
+      <translation>上锁</translation>
     </message>
     <message>
       <location filename="../src/FlyView/GuidedActionsController.qml" line="29"/>
@@ -8906,7 +8906,7 @@ VTOL</translation>
     <message>
       <location filename="../src/FlyView/GuidedActionsController.qml" line="36"/>
       <source>Resume FAILED</source>
-      <translation>恢复失败</translation>
+      <translation>继续任务失败</translation>
     </message>
     <message>
       <location filename="../src/FlyView/GuidedActionsController.qml" line="37"/>
@@ -9215,7 +9215,7 @@ VTOL</translation>
     <message>
       <location filename="../src/FirstRunPromptDialogs/InitialSetupPrompt.qml" line="9"/>
       <source>Preferences</source>
-      <translation type="unfinished">Preferences</translation>
+      <translation>偏好设置</translation>
     </message>
     <message>
       <location filename="../src/FirstRunPromptDialogs/InitialSetupPrompt.qml" line="17"/>
@@ -9245,42 +9245,42 @@ VTOL</translation>
     <message>
       <location filename="../src/FirstRunPromptDialogs/InitialSetupPrompt.qml" line="56"/>
       <source>Vehicle Preferences</source>
-      <translation type="unfinished">Vehicle Preferences</translation>
+      <translation>车辆偏好</translation>
     </message>
     <message>
       <location filename="../src/FirstRunPromptDialogs/InitialSetupPrompt.qml" line="57"/>
       <source>Select the firmware and vehicle type you typically use.</source>
-      <translation type="unfinished">Select the firmware and vehicle type you typically use.</translation>
+      <translation>选择你常用的固件和载具类型。</translation>
     </message>
     <message>
       <location filename="../src/FirstRunPromptDialogs/InitialSetupPrompt.qml" line="61"/>
       <source>Preferred Firmware</source>
-      <translation type="unfinished">Preferred Firmware</translation>
+      <translation>常用固件</translation>
     </message>
     <message>
       <location filename="../src/FirstRunPromptDialogs/InitialSetupPrompt.qml" line="69"/>
       <source>Preferred Vehicle</source>
-      <translation type="unfinished">Preferred Vehicle</translation>
+      <translation>常用载具</translation>
     </message>
     <message>
       <location filename="../src/FirstRunPromptDialogs/InitialSetupPrompt.qml" line="79"/>
       <source>Measurement Units</source>
-      <translation type="unfinished">Measurement Units</translation>
+      <translation>度量单位</translation>
     </message>
     <message>
       <location filename="../src/FirstRunPromptDialogs/InitialSetupPrompt.qml" line="80"/>
       <source>Choose the measurement units you want to use. You can also change it later in General Settings.</source>
-      <translation type="unfinished">Choose the measurement units you want to use. You can also change it later in General Settings.</translation>
+      <translation>选择要使用的度量单位，之后也可在常规设置中修改。</translation>
     </message>
     <message>
       <location filename="../src/FirstRunPromptDialogs/InitialSetupPrompt.qml" line="88"/>
       <source>System of units</source>
-      <translation type="unfinished">System of units</translation>
+      <translation>单位制</translation>
     </message>
     <message>
       <location filename="../src/FirstRunPromptDialogs/InitialSetupPrompt.qml" line="93"/>
       <source>Metric System</source>
-      <translation type="unfinished">Metric System</translation>
+      <translation>公制</translation>
     </message>
     <message>
       <location filename="../src/FirstRunPromptDialogs/InitialSetupPrompt.qml" line="93"/>
@@ -9431,7 +9431,7 @@ VTOL</translation>
     <message>
       <location filename="../src/Joystick/Joystick.h" line="486"/>
       <source>Disarm</source>
-      <translation>加锁</translation>
+      <translation>上锁</translation>
     </message>
     <message>
       <location filename="../src/Joystick/Joystick.h" line="487"/>
@@ -9646,7 +9646,7 @@ VTOL</translation>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/JoystickComponent.qml" line="153"/>
       <source>Settings</source>
-      <translation type="unfinished">Settings</translation>
+      <translation>设置</translation>
     </message>
     <message>
       <location filename="../src/Vehicle/VehicleSetup/JoystickComponent.qml" line="191"/>
@@ -11125,7 +11125,7 @@ VTOL</translation>
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="112"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>关闭</translation>
     </message>
   </context>
   <context>
@@ -11383,7 +11383,7 @@ VTOL</translation>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="141"/>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>清除</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="151"/>
@@ -11413,7 +11413,7 @@ VTOL</translation>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="204"/>
       <source>Pause</source>
-      <translation type="unfinished">Pause</translation>
+      <translation>暂停</translation>
     </message>
     <message>
       <location filename="../src/AnalyzeView/LogViewer/LogViewerPage.qml" line="204"/>
@@ -11504,7 +11504,7 @@ VTOL</translation>
     <message>
       <location filename="../src/LogManager/LoggingCategoriesDialog.qml" line="47"/>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>清除</translation>
     </message>
     <message>
       <location filename="../src/LogManager/LoggingCategoriesDialog.qml" line="55"/>
@@ -12182,7 +12182,7 @@ VTOL</translation>
     <message>
       <location filename="../src/Toolbar/MainStatusIndicator.qml" line="199"/>
       <source>Disarm</source>
-      <translation type="unfinished">Disarm</translation>
+      <translation>上锁</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/MainStatusIndicator.qml" line="37"/>
@@ -12197,7 +12197,7 @@ VTOL</translation>
     <message>
       <location filename="../src/Toolbar/MainStatusIndicator.qml" line="40"/>
       <source>Disconnected - Click to manually connect</source>
-      <translation type="unfinished">Disconnected - Click to manually connect</translation>
+      <translation>未连接 - 点击手动连接</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/MainStatusIndicator.qml" line="199"/>
@@ -12208,7 +12208,7 @@ VTOL</translation>
     <message>
       <location filename="../src/Toolbar/MainStatusIndicator.qml" line="199"/>
       <source>Arm</source>
-      <translation type="unfinished">Arm</translation>
+      <translation>解锁</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/MainStatusIndicator.qml" line="219"/>
@@ -12254,7 +12254,7 @@ VTOL</translation>
       <location filename="../src/Toolbar/MainStatusIndicator.qml" line="420"/>
       <location filename="../src/Toolbar/MainStatusIndicator.qml" line="429"/>
       <source>Configure</source>
-      <translation type="unfinished">Configure</translation>
+      <translation>配置</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/MainStatusIndicator.qml" line="427"/>
@@ -12287,7 +12287,7 @@ VTOL</translation>
     <message>
       <location filename="../src/Toolbar/MainStatusIndicatorOfflinePage.qml" line="63"/>
       <source>Configure</source>
-      <translation type="unfinished">Configure</translation>
+      <translation>配置</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/MainStatusIndicatorOfflinePage.qml" line="66"/>
@@ -12679,7 +12679,7 @@ VTOL</translation>
     <message>
       <location filename="../src/MissionManager/MissionController.cc" line="1245"/>
       <source>Plan Info</source>
-      <translation type="unfinished">Plan Info</translation>
+      <translation>计划信息</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/MissionController.cc" line="1253"/>
@@ -13654,7 +13654,7 @@ Do you wish to proceed?</translation>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="295"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>关闭</translation>
     </message>
     <message>
       <location filename="../src/AppSettings/OfflineMapEditor.qml" line="295"/>
@@ -15952,7 +15952,7 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="388"/>
       <source>Settings</source>
-      <translation type="unfinished">Settings</translation>
+      <translation>设置</translation>
     </message>
     <message>
       <location filename="../src/FlightMap/Widgets/PhotoVideoControl.qml" line="408"/>
@@ -16070,7 +16070,7 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/PlanView/PlanInfoEditor.qml" line="45"/>
       <source>Plan File</source>
-      <translation type="unfinished">Plan File</translation>
+      <translation>计划文件</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanInfoEditor.qml" line="50"/>
@@ -16080,17 +16080,17 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/PlanView/PlanInfoEditor.qml" line="72"/>
       <source>Vehicle Info</source>
-      <translation type="unfinished">Vehicle Info</translation>
+      <translation>车辆信息</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanInfoEditor.qml" line="114"/>
       <source>Expected Home Position</source>
-      <translation type="unfinished">Expected Home Position</translation>
+      <translation>预期 Home 点位置</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanInfoEditor.qml" line="136"/>
       <source>Click in map to set position</source>
-      <translation type="unfinished">Click in map to set position</translation>
+      <translation>点击地图设置位置</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanInfoEditor.qml" line="144"/>
@@ -16110,7 +16110,7 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/PlanView/PlanInfoEditor.qml" line="188"/>
       <source>Plan Templates</source>
-      <translation type="unfinished">Plan Templates</translation>
+      <translation>计划模板</translation>
     </message>
   </context>
   <context>
@@ -16404,14 +16404,14 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="77"/>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="128"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>保存</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="93"/>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="100"/>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="148"/>
       <source>Clear</source>
-      <translation type="unfinished">Clear</translation>
+      <translation>清除</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="94"/>
@@ -16426,7 +16426,7 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="120"/>
       <source>Open</source>
-      <translation type="unfinished">Open</translation>
+      <translation>打开</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanToolBarIndicators.qml" line="138"/>
@@ -16617,7 +16617,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
       <location filename="../src/PlanView/PlanView.qml" line="89"/>
       <location filename="../src/PlanView/PlanView.qml" line="94"/>
       <source>Save</source>
-      <translation>保存​​</translation>
+      <translation>保存</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="90"/>
@@ -17401,12 +17401,12 @@ sudo apt-get 移除调制解调器管理器</translation>
       <location filename="../src/QmlControls/QGCPopupDialog.qml" line="140"/>
       <location filename="../src/QmlControls/QGCPopupDialog.qml" line="149"/>
       <source>Open</source>
-      <translation type="unfinished">Open</translation>
+      <translation>打开</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/QGCPopupDialog.qml" line="143"/>
       <source>Save</source>
-      <translation type="unfinished">Save</translation>
+      <translation>保存</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/QGCPopupDialog.qml" line="146"/>
@@ -17456,7 +17456,7 @@ sudo apt-get 移除调制解调器管理器</translation>
     <message>
       <location filename="../src/QmlControls/QGCPopupDialog.qml" line="179"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>关闭</translation>
     </message>
     <message>
       <location filename="../src/QmlControls/QGCPopupDialog.qml" line="182"/>
@@ -18628,7 +18628,7 @@ sudo apt-get 移除调制解调器管理器</translation>
     <message>
       <location filename="../src/Toolbar/RemoteIDIndicatorPage.qml" line="413"/>
       <source>Configure</source>
-      <translation type="unfinished">Configure</translation>
+      <translation>配置</translation>
     </message>
   </context>
   <context>
@@ -18979,12 +18979,12 @@ sudo apt-get 移除调制解调器管理器</translation>
     <message>
       <location filename="../src/Toolbar/SelectViewDropdown.qml" line="23"/>
       <source>Fly</source>
-      <translation type="unfinished">Fly</translation>
+      <translation>飞行</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/SelectViewDropdown.qml" line="37"/>
       <source>Plan</source>
-      <translation type="unfinished">Plan</translation>
+      <translation>规划</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/SelectViewDropdown.qml" line="51"/>
@@ -18994,22 +18994,22 @@ sudo apt-get 移除调制解调器管理器</translation>
     <message>
       <location filename="../src/Toolbar/SelectViewDropdown.qml" line="67"/>
       <source>Configure</source>
-      <translation type="unfinished">Configure</translation>
+      <translation>配置</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/SelectViewDropdown.qml" line="82"/>
       <source>Settings</source>
-      <translation type="unfinished">Settings</translation>
+      <translation>设置</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/SelectViewDropdown.qml" line="98"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation>关闭</translation>
     </message>
     <message>
       <location filename="../src/Toolbar/SelectViewDropdown.qml" line="121"/>
       <source>%1 Version</source>
-      <translation type="unfinished">%1 Version</translation>
+      <translation>%1 版本</translation>
     </message>
   </context>
   <context>
@@ -21834,7 +21834,7 @@ If a vehicle still has this key configured, you will no longer be able to commun
     <message>
       <location filename="../src/Viewer3D/Viewer3DQml/Viewer3DShowAction.qml" line="11"/>
       <source>Fly</source>
-      <translation type="unfinished">Fly</translation>
+      <translation>飞行</translation>
     </message>
     <message>
       <location filename="../src/Viewer3D/Viewer3DQml/Viewer3DShowAction.qml" line="11"/>
